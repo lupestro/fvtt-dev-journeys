@@ -47,6 +47,6 @@
             "module": "fudge"
           }
     ],
-    "manifest": "https://github.com/lupestro/fvtt-dev-journeys/module.json",
-    "download": "http://github.com/lupestro/fvtt-dev-journeys/dev-journeys.zip"
+    "manifest": "https://raw.githubusercontent.com/lupestro/torch/fvtt-dev-journeys/module.json",
+    "download": "https://raw.githubusercontent.com/lupestro/torch/fvtt-dev-journeys/dev-journeys.zip"
 }
