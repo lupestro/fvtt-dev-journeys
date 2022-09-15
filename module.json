@@ -1,0 +1,52 @@
+{
+    "id": "dev-journeys",
+    "title": "Developer Journeys",
+    "description": "A module containing the exported Developer Journeys compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "10",
+    "authors": [{"name":"Lupestro"}],
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10.276",
+        "maximum": "10"
+      },
+        "packs": [
+        {
+            "name": "sample-actors",
+            "label": "Sample Actors",
+            "path": "packs/actors.db",
+            "type": "Actor",
+            "system": "fudge",
+            "module": "fudge"
+          },
+          {
+            "name": "sample-items",
+            "label": "Sample Items",
+            "path": "packs/items.db",
+            "type": "Item",
+            "system": "fudge",
+            "module": "fudge"
+          },
+          {
+            "name": "sample-scenes",
+            "label": "Sample Scenes",
+            "path": "packs/scenes.db",
+            "type": "Scene",
+            "system": "fudge",
+            "module": "fudge"
+          },
+          {
+            "name": "development-journeys",
+            "label": "Developer Journeys",
+            "path": "packs/journeys.db",
+            "type": "Journal Entry",
+            "system": "fudge",
+            "module": "fudge"
+          }
+    ],
+    "manifest": "https://github.com/lupestro/fvtt-dev-journeys/module.json",
+    "download": "http://github.com/lupestro/fvtt-dev-journeys/dev-journeys.zip"
+}
