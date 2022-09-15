@@ -41,12 +41,12 @@
           {
             "name": "development-journeys",
             "label": "Developer Journeys",
-            "path": "packs/journeys.db",
+            "path": "packs/development-journeys.db",
             "type": "JournalEntry",
             "system": "fudge",
             "module": "fudge"
           }
     ],
-    "manifest": "https://raw.githubusercontent.com/lupestro/fvtt-dev-journeys/modulex.json",
-    "download": "https://raw.githubusercontent.com/lupestro/fvtt-dev-journeys/dev-journeys.zip"
+    "manifest": "https://raw.githubusercontent.com/lupestro/fvtt-dev-journeys/main/module.json",
+    "download": "https://raw.githubusercontent.com/lupestro/fvtt-dev-journeys/main/dev-journeys.zip"
 }
