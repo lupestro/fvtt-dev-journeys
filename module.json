@@ -10,14 +10,14 @@
     "authors": [{"name":"Lupestro"}],
     "compatibility": {
         "minimum": "10",
-        "verified": "10.276",
+        "verified": "10.285",
         "maximum": "10"
       },
         "packs": [
         {
             "name": "sample-actors",
             "label": "Sample Actors",
-            "path": "packs/actors.db",
+            "path": "packs/sample-actors.db",
             "type": "Actor",
             "system": "fudge",
             "module": "fudge"
@@ -25,7 +25,7 @@
           {
             "name": "sample-items",
             "label": "Sample Items",
-            "path": "packs/items.db",
+            "path": "packs/sample-items.db",
             "type": "Item",
             "system": "fudge",
             "module": "fudge"
@@ -33,7 +33,7 @@
           {
             "name": "sample-scenes",
             "label": "Sample Scenes",
-            "path": "packs/scenes.db",
+            "path": "packs/sample-scenes.db",
             "type": "Scene",
             "system": "fudge",
             "module": "fudge"
@@ -42,11 +42,11 @@
             "name": "development-journeys",
             "label": "Developer Journeys",
             "path": "packs/journeys.db",
-            "type": "Journal Entry",
+            "type": "JournalEntry",
             "system": "fudge",
             "module": "fudge"
           }
     ],
-    "manifest": "https://raw.githubusercontent.com/lupestro/torch/fvtt-dev-journeys/module.json",
-    "download": "https://raw.githubusercontent.com/lupestro/torch/fvtt-dev-journeys/dev-journeys.zip"
+    "manifest": "https://raw.githubusercontent.com/lupestro/fvtt-dev-journeys/modulex.json",
+    "download": "https://raw.githubusercontent.com/lupestro/fvtt-dev-journeys/dev-journeys.zip"
 }
