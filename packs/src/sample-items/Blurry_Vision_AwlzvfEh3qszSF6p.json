@@ -1,0 +1,28 @@
+{
+  "name": "Blurry Vision",
+  "type": "fault",
+  "img": "icons/svg/item-bag.svg",
+  "system": {},
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.TM7oUxEomvzBJwp8"
+    }
+  },
+  "_stats": {
+    "systemId": "fudge",
+    "systemVersion": "1.0.0",
+    "coreVersion": "10.285",
+    "createdTime": 1663080500632,
+    "modifiedTime": 1663267530269,
+    "lastModifiedBy": "IjOfzuWla2GCzFvl"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "IjOfzuWla2GCzFvl": 3
+  },
+  "_id": "AwlzvfEh3qszSF6p",
+  "_key": "!Item!AwlzvfEh3qszSF6p"
+}

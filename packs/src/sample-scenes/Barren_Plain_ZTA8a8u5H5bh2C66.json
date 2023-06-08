@@ -1,0 +1,79 @@
+{
+  "name": "Barren Plain",
+  "navigation": true,
+  "navOrder": 0,
+  "navName": "",
+  "background": {
+    "src": null,
+    "scaleX": 1,
+    "scaleY": 1,
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": 0,
+    "tint": null
+  },
+  "foreground": null,
+  "foregroundElevation": 4,
+  "thumb": null,
+  "width": 4000,
+  "height": 3000,
+  "padding": 0.25,
+  "initial": {
+    "x": 3000,
+    "y": 2300,
+    "scale": 1.5699587620520519
+  },
+  "backgroundColor": "#999999",
+  "grid": {
+    "type": 1,
+    "size": 100,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 1,
+    "units": ""
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1663267418869,
+  "globalLight": false,
+  "globalLightThreshold": null,
+  "darkness": 0,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "weather": "",
+  "flags": {
+    "core": {
+      "sourceId": "Scene.YUjMK4ilzNW5YhEN"
+    }
+  },
+  "_stats": {
+    "systemId": "fudge",
+    "systemVersion": "1.0.0",
+    "coreVersion": "10.285",
+    "createdTime": 1663267418874,
+    "modifiedTime": 1663267472721,
+    "lastModifiedBy": "IjOfzuWla2GCzFvl"
+  },
+  "active": false,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "IjOfzuWla2GCzFvl": 3
+  },
+  "_id": "ZTA8a8u5H5bh2C66",
+  "_key": "!Scene!ZTA8a8u5H5bh2C66"
+}

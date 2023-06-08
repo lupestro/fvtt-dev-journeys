@@ -1,0 +1,37 @@
+{
+  "name": "Diplomacy",
+  "type": "skill",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "level": 1,
+    "group": "Social"
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "dev-journeys",
+      "system": "fudge",
+      "coreVersion": "10.285",
+      "systemVersion": "1.0.0"
+    },
+    "core": {
+      "sourceId": "Item.y8qazVUSweEtvlIB"
+    }
+  },
+  "_stats": {
+    "systemId": "fudge",
+    "systemVersion": "1.0.0",
+    "coreVersion": "10.285",
+    "createdTime": 1663080458435,
+    "modifiedTime": 1663267525368,
+    "lastModifiedBy": "IjOfzuWla2GCzFvl"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "IjOfzuWla2GCzFvl": 3
+  },
+  "_id": "jbqz6Nq6Cg1vWfNj",
+  "_key": "!Item!jbqz6Nq6Cg1vWfNj"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Leather Jacket",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odf": 0,
+    "ddf": 2,
+    "quantity": 0
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "dev-journeys",
+      "system": "fudge",
+      "coreVersion": "10.285",
+      "systemVersion": "1.0.0"
+    },
+    "core": {
+      "sourceId": "Item.zt1jIhdrPs5Y0fFE"
+    }
+  },
+  "_stats": {
+    "systemId": "fudge",
+    "systemVersion": "1.0.0",
+    "coreVersion": "10.285",
+    "createdTime": 1663080312388,
+    "modifiedTime": 1663267520801,
+    "lastModifiedBy": "IjOfzuWla2GCzFvl"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "IjOfzuWla2GCzFvl": 3
+  },
+  "_id": "cQ792dgHMt0Ehl4W",
+  "_key": "!Item!cQ792dgHMt0Ehl4W"
+}

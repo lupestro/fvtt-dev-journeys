@@ -1,0 +1,37 @@
+{
+  "name": "Street Fighting",
+  "type": "skill",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "level": 2,
+    "group": "Combat"
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "dev-journeys",
+      "system": "fudge",
+      "coreVersion": "10.285",
+      "systemVersion": "1.0.0"
+    },
+    "core": {
+      "sourceId": "Item.3kpe0nNlM1r0IN7Z"
+    }
+  },
+  "_stats": {
+    "systemId": "fudge",
+    "systemVersion": "1.0.0",
+    "coreVersion": "10.285",
+    "createdTime": 1663080443680,
+    "modifiedTime": 1663267510749,
+    "lastModifiedBy": "IjOfzuWla2GCzFvl"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "IjOfzuWla2GCzFvl": 3
+  },
+  "_id": "B829mb6l2wuM6Q6L",
+  "_key": "!Item!B829mb6l2wuM6Q6L"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Pen",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odf": 0,
+    "ddf": 0,
+    "quantity": 12
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "dev-journeys",
+      "system": "fudge",
+      "coreVersion": "10.285",
+      "systemVersion": "1.0.0"
+    },
+    "core": {
+      "sourceId": "Item.njurawdABzGKYRv0"
+    }
+  },
+  "_stats": {
+    "systemId": "fudge",
+    "systemVersion": "1.0.0",
+    "coreVersion": "10.285",
+    "createdTime": 1663080392364,
+    "modifiedTime": 1663267515599,
+    "lastModifiedBy": "IjOfzuWla2GCzFvl"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "IjOfzuWla2GCzFvl": 3
+  },
+  "_id": "TNt9AXarSAo3rNl9",
+  "_key": "!Item!TNt9AXarSAo3rNl9"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Switchblade",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odf": 1,
+    "ddf": 0,
+    "quantity": 0
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "dev-journeys",
+      "system": "fudge",
+      "coreVersion": "10.285",
+      "systemVersion": "1.0.0"
+    },
+    "core": {
+      "sourceId": "Item.AzwqKBIYnZ732DmG"
+    }
+  },
+  "_stats": {
+    "systemId": "fudge",
+    "systemVersion": "1.0.0",
+    "coreVersion": "10.285",
+    "createdTime": 1663080278836,
+    "modifiedTime": 1663267508565,
+    "lastModifiedBy": "IjOfzuWla2GCzFvl"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "IjOfzuWla2GCzFvl": 3
+  },
+  "_id": "lI6BDsFUfmPCl2En",
+  "_key": "!Item!lI6BDsFUfmPCl2En"
+}

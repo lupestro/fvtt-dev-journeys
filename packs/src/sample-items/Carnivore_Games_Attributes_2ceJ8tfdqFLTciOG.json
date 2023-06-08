@@ -1,0 +1,63 @@
+{
+  "name": "Carnivore Games Attributes",
+  "type": "attributeset",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "attributes": [
+      {
+        "name": "Brawn",
+        "level": 0
+      },
+      {
+        "name": "Agility",
+        "level": 0
+      },
+      {
+        "name": "Stamina",
+        "level": 0
+      },
+      {
+        "name": "Reasoning",
+        "level": 0
+      },
+      {
+        "name": "Perception",
+        "level": 0
+      },
+      {
+        "name": "Will",
+        "level": 0
+      }
+    ],
+    "muscleweapon": "Brawn",
+    "damagecap": "Stamina"
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "dev-journeys",
+      "system": "fudge-rpg",
+      "coreVersion": "11.300",
+      "systemVersion": "1.4.0"
+    },
+    "core": {
+      "sourceId": "Item.KiNUZDMnkZihChM0"
+    }
+  },
+  "_stats": {
+    "systemId": "fudge-rpg",
+    "systemVersion": "1.4.0",
+    "coreVersion": "11.300",
+    "createdTime": 1663079828668,
+    "modifiedTime": 1663267527936,
+    "lastModifiedBy": "IjOfzuWla2GCzFvl"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "IjOfzuWla2GCzFvl": 3
+  },
+  "_id": "2ceJ8tfdqFLTciOG",
+  "_key": "!Item!2ceJ8tfdqFLTciOG"
+}

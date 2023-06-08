@@ -1,0 +1,32 @@
+{
+  "name": "Lighter",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odf": 0,
+    "ddf": 0,
+    "quantity": 0
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.IPpgjAz70DFqEbx6"
+    }
+  },
+  "_stats": {
+    "systemId": "fudge",
+    "systemVersion": "1.0.0",
+    "coreVersion": "10.285",
+    "createdTime": 1663080414753,
+    "modifiedTime": 1663267518516,
+    "lastModifiedBy": "IjOfzuWla2GCzFvl"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "IjOfzuWla2GCzFvl": 3
+  },
+  "_id": "KuqBpS6M2boI49XR",
+  "_key": "!Item!KuqBpS6M2boI49XR"
+}

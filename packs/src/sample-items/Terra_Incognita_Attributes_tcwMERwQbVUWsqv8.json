@@ -1,0 +1,56 @@
+{
+  "name": "Terra Incognita Attributes",
+  "type": "attributeset",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p></p>",
+    "attributes": [
+      {
+        "name": "Perception",
+        "level": 0
+      },
+      {
+        "name": "Reasoning",
+        "level": 0
+      },
+      {
+        "name": "Resolve",
+        "level": 0
+      },
+      {
+        "name": "Strength",
+        "level": 0
+      },
+      {
+        "name": "Dexterity",
+        "level": 0
+      },
+      {
+        "name": "Vigor",
+        "level": 0
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "BTl0cPfh6E6EXtBD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.L8lfIPMPxoJSX3Ry"
+    }
+  },
+  "_stats": {
+    "systemId": "fudge",
+    "systemVersion": "1.0.0",
+    "coreVersion": "10.286",
+    "createdTime": 1663790705936,
+    "modifiedTime": 1663799533792,
+    "lastModifiedBy": "BTl0cPfh6E6EXtBD"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "tcwMERwQbVUWsqv8",
+  "_key": "!Item!tcwMERwQbVUWsqv8"
+}

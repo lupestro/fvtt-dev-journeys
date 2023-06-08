@@ -2,7 +2,7 @@
   "id": "dev-journeys",
   "title": "Developer Journeys",
   "description": "A module containing the exported Developer Journeys compendium.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Lupestro",
@@ -12,7 +12,7 @@
   "compatibility": {
     "minimum": "10",
     "verified": "10.285",
-    "maximum": "10"
+    "maximum": "11"
   },
   "packs": [
     {
@@ -20,8 +20,12 @@
       "label": "Sample Actors",
       "path": "packs/sample-actors.db",
       "type": "Actor",
-      "system": "fudge",
+      "system": "fudge-rpg",
       "private": false,
+      "ownership": {
+        "PLAYER": "OBSERVER", 
+        "ASSISTANT": "OWNER"
+      },
       "flags": {}
     },
     {
@@ -29,8 +33,12 @@
       "label": "Sample Items",
       "path": "packs/sample-items.db",
       "type": "Item",
-      "system": "fudge",
+      "system": "fudge-rpg",
       "private": false,
+      "ownership": {
+        "PLAYER": "OBSERVER", 
+        "ASSISTANT": "OWNER"
+      },
       "flags": {}
     },
     {
@@ -38,8 +46,12 @@
       "label": "Sample Scenes",
       "path": "packs/sample-scenes.db",
       "type": "Scene",
-      "system": "fudge",
+      "system": "fudge-rpg",
       "private": false,
+      "ownership": {
+        "PLAYER": "OBSERVER", 
+        "ASSISTANT": "OWNER"
+      },
       "flags": {}
     },
     {
@@ -49,6 +61,10 @@
       "type": "JournalEntry",
       "system": "fudge",
       "private": false,
+      "ownership": {
+        "PLAYER": "OBSERVER", 
+        "ASSISTANT": "OWNER"
+      },
       "flags": {}
     }
   ],

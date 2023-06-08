@@ -1,0 +1,72 @@
+{
+  "name": "Standard Trait Levels",
+  "type": "traitlevelset",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "levels": [
+      {
+        "name": "Superb",
+        "value": 3,
+        "ep": 8
+      },
+      {
+        "name": "Great",
+        "value": 2,
+        "ep": 4
+      },
+      {
+        "name": "Good",
+        "value": 1,
+        "ep": 2
+      },
+      {
+        "name": "Fair",
+        "value": 0,
+        "ep": 1
+      },
+      {
+        "name": "Mediocre",
+        "value": -1,
+        "ep": 1
+      },
+      {
+        "name": "Poor",
+        "value": -2,
+        "ep": 1
+      },
+      {
+        "name": "Terrible",
+        "value": -3,
+        "ep": 1
+      }
+    ]
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "dev-journeys",
+      "system": "fudge",
+      "coreVersion": "10.285",
+      "systemVersion": "1.0.0"
+    },
+    "core": {
+      "sourceId": "Item.Uilq8tZKCpGQCcJx"
+    }
+  },
+  "_stats": {
+    "systemId": "fudge",
+    "systemVersion": "1.0.0",
+    "coreVersion": "10.285",
+    "createdTime": 1663079401839,
+    "modifiedTime": 1663267513064,
+    "lastModifiedBy": "IjOfzuWla2GCzFvl"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "IjOfzuWla2GCzFvl": 3
+  },
+  "_id": "iUjx9by7tNvPUBS1",
+  "_key": "!Item!iUjx9by7tNvPUBS1"
+}
