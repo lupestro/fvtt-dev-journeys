@@ -11,8 +11,8 @@
   ],
   "compatibility": {
     "minimum": "10",
-    "verified": "10.285",
-    "maximum": "11"
+    "verified": "12.330",
+    "maximum": "12"
   },
   "packs": [
     {
@@ -22,10 +22,6 @@
       "type": "Actor",
       "system": "fudge-rpg",
       "private": false,
-      "ownership": {
-        "PLAYER": "OBSERVER", 
-        "ASSISTANT": "OWNER"
-      },
       "flags": {}
     },
     {
@@ -35,10 +31,6 @@
       "type": "Item",
       "system": "fudge-rpg",
       "private": false,
-      "ownership": {
-        "PLAYER": "OBSERVER", 
-        "ASSISTANT": "OWNER"
-      },
       "flags": {}
     },
     {
@@ -48,10 +40,6 @@
       "type": "Scene",
       "system": "fudge-rpg",
       "private": false,
-      "ownership": {
-        "PLAYER": "OBSERVER", 
-        "ASSISTANT": "OWNER"
-      },
       "flags": {}
     },
     {
@@ -59,12 +47,7 @@
       "label": "Developer Journeys",
       "path": "packs/development-journeys.db",
       "type": "JournalEntry",
-      "system": "fudge",
       "private": false,
-      "ownership": {
-        "PLAYER": "OBSERVER", 
-        "ASSISTANT": "OWNER"
-      },
       "flags": {}
     }
   ],
